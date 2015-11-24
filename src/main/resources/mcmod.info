@@ -1,0 +1,16 @@
+[
+{
+  "modid": "GrowableThings",
+  "name": "Growable Things",
+  "description": "Configurable System for Growable things 1.7.10!",
+  "version": "1.7.10-1.0",
+  "mcversion": "1.7.10",
+  "url": "UnitedbyGames.com",
+  "updateUrl": "",
+  "authors": ["Legalamb"],
+  "credits": "Legalamb",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
